@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋
 
-<!--
-**manoj-gt65/manoj-gt65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | Passionate about building real-world solutions  
+💡 Focused on Artificial Intelligence, Machine Learning & IoT  
+🚀 Currently developing: Smart Adaptive Safety Street Pole System  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Programming: Python, Java  
+- Domains: Machine Learning, IoT Systems  
+- Tools & Concepts: Data Analysis, Sensors, Embedded Systems  
+
+---
+
+## 📌 Key Project
+### 🔹 Smart Adaptive Safety Street Pole
+An AI-powered smart street lighting system designed to improve public safety and optimize energy usage.
+
+**Features:**
+- Intelligent brightness control  
+- Motion and activity detection  
+- Energy-efficient automation  
+
+---
+
+## 📈 Current Focus
+- Improving AI model accuracy  
+- Integrating IoT with real-time monitoring  
+- Building scalable smart city solutions  
+
+---
+
+## 📫 Contact
+- Email: manojofficial2705@gmail.com
