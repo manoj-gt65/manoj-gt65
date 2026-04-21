@@ -1,8 +1,8 @@
 from sensors.motion_sensor import detect_motion
+from controller.light_control import control_light
 
 motion = detect_motion()
 
-if motion:
-    print("🚶 Motion Detected → Light ON")
-else:
-    print("🌙 No Motion → Light DIM")
+result = control_light(motion)
+
+print(result)
