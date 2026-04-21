@@ -1,2 +1,4 @@
+import random
+
 def detect_motion():
-    return True
+    return random.choice([True, False])
