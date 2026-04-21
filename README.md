@@ -1,35 +1,59 @@
-# Hi, I'm Manoj 👋🔥
+# 🚀 Smart Adaptive Safety Street Pole
 
-🎓 Engineering Student | Passionate about building real-world solutions  
-💡 Focused on Artificial Intelligence, Machine Learning & IoT  
-🚀 Currently developing: Smart Adaptive Safety Street Pole System  
-
----
-
-## 🔧 Technical Skills
-- Programming: Python, Java  
-- Domains: Machine Learning, IoT Systems  
-- Tools & Concepts: Data Analysis, Sensors, Embedded Systems  
+## 📌 Overview
+This project focuses on developing an AI-powered smart street lighting system that enhances public safety and optimizes energy consumption.
 
 ---
 
-## 📌 Key Project
-### 🔹 Smart Adaptive Safety Street Pole
-An AI-powered smart street lighting system designed to improve public safety and optimize energy usage.
-
-**Features:**
-- Intelligent brightness control  
-- Motion and activity detection  
-- Energy-efficient automation  
+## ❗ Problem Statement
+Traditional street lights:
+- Waste energy
+- Do not adapt to environment
+- Lack safety monitoring
 
 ---
 
-## 📈 Current Focus
-- Improving AI model accuracy  
-- Integrating IoT with real-time monitoring  
-- Building scalable smart city solutions  
+## 💡 Proposed Solution
+An intelligent street pole system that:
+- Adjusts brightness automatically
+- Detects motion and unusual activities
+- Sends alerts for safety
+
+---
+
+## ⚙️ Tech Stack
+- Python
+- IoT Sensors
+- Machine Learning
+
+---
+
+## 🔥 Features
+- 🌙 Auto brightness control  
+- 🚶 Motion detection  
+- ⚡ Energy saving mode  
+- 🚨 Alert system  
+
+---
+
+## 📷 Output
+The system dynamically adjusts lighting based on movement and environmental conditions, ensuring safety and efficiency.
+
+---
+
+## ▶️ How to Run
+1. Install Python  
+2. Connect sensors  
+3. Run the main script  
+
+---
+
+## 📈 Future Improvements
+- Mobile app integration  
+- Cloud monitoring  
+- AI-based prediction system  
 
 ---
 
 ## 📫 Contact
-- Email: manojofficial2705@gmail.com
+- Email: yourmail@gmail.com
