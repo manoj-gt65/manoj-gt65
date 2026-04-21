@@ -1,4 +1,4 @@
-# Hi, I'm Manoj 👋
+# Hi, I'm Manoj 👋🔥
 
 🎓 Engineering Student | Passionate about building real-world solutions  
 💡 Focused on Artificial Intelligence, Machine Learning & IoT  
