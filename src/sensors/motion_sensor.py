@@ -1,4 +1,4 @@
 import random
 
 def detect_motion():
-    return random.choice([True, False])
+    return random.randint(0, 10)  # motion level
