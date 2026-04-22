@@ -1,59 +1,61 @@
 # 🚀 Smart Adaptive Safety Street Pole
 
 ## 📌 Overview
-This project focuses on developing an AI-powered smart street lighting system that enhances public safety and optimizes energy consumption.
+This project is an AI-based smart street lighting system that automatically adjusts brightness based on motion detection levels to improve safety and save energy.
 
 ---
 
 ## ❗ Problem Statement
 Traditional street lights:
 - Waste energy
-- Do not adapt to environment
-- Lack safety monitoring
+- Do not respond to real-time activity
+- Lack smart control
 
 ---
 
-## 💡 Proposed Solution
-An intelligent street pole system that:
-- Adjusts brightness automatically
-- Detects motion and unusual activities
-- Sends alerts for safety
+## 💡 Solution
+An intelligent system that:
+- Detects motion level (0–10)
+- Adjusts brightness dynamically
+- Runs continuously like a real system
 
 ---
 
 ## ⚙️ Tech Stack
 - Python
-- IoT Sensors
-- Machine Learning
+- Basic AI Logic (Decision-based)
+- IoT Concept Simulation
 
 ---
 
 ## 🔥 Features
-- 🌙 Auto brightness control  
-- 🚶 Motion detection  
-- ⚡ Energy saving mode  
-- 🚨 Alert system  
+- 🚶 Motion detection (simulated)
+- 💡 Smart brightness control
+- 🔁 Continuous system loop
+- ⚡ Energy-efficient behavior
 
 ---
 
 ## 📷 Output
-The system dynamically adjusts lighting based on movement and environmental conditions, ensuring safety and efficiency.
+Example output:
+
 
 ---
 
 ## ▶️ How to Run
-1. Install Python  
-2. Connect sensors  
-3. Run the main script  
+1. Download the project
+2. Open `src` folder
+3. Run:
+
 
 ---
 
 ## 📈 Future Improvements
-- Mobile app integration  
-- Cloud monitoring  
-- AI-based prediction system  
+- Real sensor integration
+- Mobile app monitoring
+- Cloud-based control system
 
 ---
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
+- Email: manojofficial2705@gmail.com
